@@ -19,15 +19,15 @@ I am a results-driven Full-Stack Developer with 4 years of professional experien
 
 ### 💻 Featured Architecture & Open Source Concepts
 
-#### 🛠️ [Enterprise CMS & Configuration Management System](https://github.com/YOUR_USERNAME/enterprise-cms-architecture)
+#### 🛠️ [Enterprise CMS & Configuration Management System](https://github.com/hariprasatham/enterprise-cms-architecture)
 *   **Context:** Modeled after an enterprise-grade platform managing configurations for 100+ mobile applications integrated with active CI/CD deployment pipelines.
 *   **Key Highlights:** Advanced analytics dashboards for monitoring deployment metrics, secure merchant onboarding workflows, and modular frontend state management.
 
-#### 📄 [DocConvert: Automated Cloud Data Extraction Pipeline](https://github.com/YOUR_USERNAME/express-aws-automation-starter)
+#### 📄 [DocConvert: Automated Cloud Data Extraction Pipeline](https://github.com/hariprasatham/express-aws-automation-starter)
 *   **Context:** A production-ready blueprint demonstrating asynchronous file processing and intelligent data extraction.
 *   **Key Highlights:** Integrated AWS S3 for secure cloud-based document pipelines and leveraged AWS Textract to parse employee data (hours, wages, funds) from scanned PDFs—reducing manual enterprise workflows down to 2–3 minutes.
 
-#### 📦 [Cargo Logistics & E-Commerce Core Dashboard](https://github.com/YOUR_USERNAME/cargo-logistics-system-design)
+#### 📦 [Cargo Logistics & E-Commerce Core Dashboard](https://github.com/hariprasatham/cargo-logistics-system-design)
 *   **Context:** Architectural overview and database schema design for a complex logistics ecosystem tracking parcels, vehicle maintenance, and live staff operations.
 *   **Key Highlights:** Relational and non-relational hybrid data models, payment gateway integration patterns, and centralized state architecture using Redux Toolkit.
 
