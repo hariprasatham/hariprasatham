@@ -1,21 +1,47 @@
-# 💫 About Me:
-🔭 I’m currently working on E-commerce<br>🌱 I’m currently learning React<br>💬 Ask me about React, Front-end Development
+# Hi, I'm Hariprasath Annathurai 👋
+### Full-Stack Software Engineer | MERN Stack & Cloud Automation Specialist
 
+I am a results-driven Full-Stack Developer with 4 years of professional experience designing, building, and optimizing scalable enterprise web applications. My core expertise lies in the MERN ecosystem, relational/non-relational database architectures, and automating complex business workflows using cloud infrastructure.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariprasatham) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HariprasathA4) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hariprasatham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hariprasatham&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasatham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hariprasatham&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+📌 **Note on GitHub Activity:** As a full-time software engineer, the vast majority of my daily engineering output lives inside secure, private enterprise repositories (GitLab/Bitbucket) for my employers. Below, you will find architectural breakdowns and production boilerplates that reflect my coding standards, system design philosophies, and architectural practices.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hariprasatham&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Technical Expertise
+
+*   **Frontend:** JavaScript (ES6+), React.js, Redux Toolkit, TypeScript, TailwindCSS, Material-UI, Ant Design
+*   **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication, Sequelize ORM
+*   **Databases:** MySQL, MongoDB
+*   **Cloud & Devops:** AWS Textract, AWS S3, n8n Workflows, CI/CD Integration, Git/GitHub
+*   **Tools & Ecosystem:** VS Code, Linux, Postman, Jira, Agile Methodologies
+
+---
+
+### 💻 Featured Architecture & Open Source Concepts
+
+#### 🛠️ [Enterprise CMS & Configuration Management System](https://github.com/YOUR_USERNAME/enterprise-cms-architecture)
+*   **Context:** Modeled after an enterprise-grade platform managing configurations for 100+ mobile applications integrated with active CI/CD deployment pipelines.
+*   **Key Highlights:** Advanced analytics dashboards for monitoring deployment metrics, secure merchant onboarding workflows, and modular frontend state management.
+
+#### 📄 [DocConvert: Automated Cloud Data Extraction Pipeline](https://github.com/YOUR_USERNAME/express-aws-automation-starter)
+*   **Context:** A production-ready blueprint demonstrating asynchronous file processing and intelligent data extraction.
+*   **Key Highlights:** Integrated AWS S3 for secure cloud-based document pipelines and leveraged AWS Textract to parse employee data (hours, wages, funds) from scanned PDFs—reducing manual enterprise workflows down to 2–3 minutes.
+
+#### 📦 [Cargo Logistics & E-Commerce Core Dashboard](https://github.com/YOUR_USERNAME/cargo-logistics-system-design)
+*   **Context:** Architectural overview and database schema design for a complex logistics ecosystem tracking parcels, vehicle maintenance, and live staff operations.
+*   **Key Highlights:** Relational and non-relational hybrid data models, payment gateway integration patterns, and centralized state architecture using Redux Toolkit.
+
+---
+
+### 📈 Metrics That Matter (Professional Achievements)
+*   **Legacy Migrations:** Successfully migrated legacy monolithic PHP systems into modern, decoupled React.js + Node.js architectures, vastly improving application performance and maintainability.
+*   **Process Automation:** Replaced manual, error-prone data-entry operations with automated AWS-driven pipelines, shortening execution cycles to minutes.
+*   **Scalable Layouts:** Architected frontend component libraries from scratch to ensure UI consistency and fast onboarding for cross-functional development teams.
+
+---
+
+### 🤝 Connect With Me
+
+*   **LinkedIn:** [linkedin.com/in/hariprasatham](https://www.linkedin.com/in/hariprasatham/)
+*   **Email:** hariprasatham@gmail.com
+*   **Location:** Tamil Nadu, India
